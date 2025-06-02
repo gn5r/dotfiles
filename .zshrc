@@ -75,7 +75,7 @@ VSCODE=code
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git aliases copypath copyfile docker docker-compose vscode node npm nvm yarn)
+plugins=(git zsh-autosuggestions aliases copypath copyfile brew docker docker-compose vscode node npm nvm yarn zsh-syntax-highlighting)
 
 source $ZSH/oh-my-zsh.sh
 
